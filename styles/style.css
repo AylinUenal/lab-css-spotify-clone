@@ -43,7 +43,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("/images/landing.jpg");
+  background-image: url("../images/landing.jpg");
   background-size: cover;
   color: white;
   height: 550px;
